@@ -500,6 +500,8 @@
       {"type":"file","name":"20230321_161515.jpg","size":3007496},
       {"type":"file","name":"20230321_171239.jpg","size":3298875},
       {"type":"file","name":"20230322_105342.jpg","size":3031025},
+      {"type":"file","name":"20230322_195538-COLLAGE.jpg","size":271610},
+      {"type":"file","name":"20230322_195744-COLLAGE.jpg","size":264241},
       {"type":"file","name":"20230323_100828.jpg","size":2052590},
       {"type":"file","name":"20230325_122935.jpg","size":2772779},
       {"type":"file","name":"20230325_144233.jpg","size":2097744},
@@ -699,8 +701,6 @@
       {"type":"file","name":"P1080615.JPG","size":4336640}
     ]},
     {"type":"directory","name":"04","size":131072,"contents":[
-      {"type":"file","name":"20230322_195538-COLLAGE.jpg","size":271610},
-      {"type":"file","name":"20230322_195744-COLLAGE.jpg","size":264241},
       {"type":"file","name":"20230402_091138.jpg","size":1643645},
       {"type":"file","name":"20230403_110413.jpg","size":1604157},
       {"type":"file","name":"20230403_113120.jpg","size":3913792},
@@ -708,14 +708,6 @@
       {"type":"file","name":"20230408_124625.jpg","size":2032110},
       {"type":"file","name":"20230408_132426.jpg","size":4439955},
       {"type":"file","name":"20230408_153502.jpg","size":3991118},
-      {"type":"file","name":"DSCF0249.JPG","size":2225726},
-      {"type":"file","name":"DSCF0250.JPG","size":2265724},
-      {"type":"file","name":"DSCF0251.JPG","size":2225712},
-      {"type":"file","name":"DSCF0252.JPG","size":2296085},
-      {"type":"file","name":"DSCF0285.JPG","size":2296377},
-      {"type":"file","name":"DSCF0286.JPG","size":2245638},
-      {"type":"file","name":"DSCF0287.JPG","size":1707795},
-      {"type":"file","name":"DSCF0288.JPG","size":1632619},
       {"type":"file","name":"DSCF3549.JPG","size":3917007},
       {"type":"file","name":"DSCF3550.JPG","size":3899618},
       {"type":"file","name":"DSCF3551.JPG","size":3895188},
@@ -773,16 +765,7 @@
       {"type":"file","name":"DSCF3603.JPG","size":3719158},
       {"type":"file","name":"DSCF3604.JPG","size":3831220},
       {"type":"file","name":"DSCF3605.JPG","size":3795259},
-      {"type":"file","name":"DSCF3606.JPG","size":4024683},
-      {"type":"file","name":"DSCF9002.JPG","size":3273569},
-      {"type":"file","name":"DSCF9003.JPG","size":3446483},
-      {"type":"file","name":"DSCF9004.JPG","size":3706364},
-      {"type":"file","name":"DSCF9005.JPG","size":3110108},
-      {"type":"file","name":"DSCF9006.JPG","size":3632936},
-      {"type":"file","name":"F3FE50BC-5DC8-4D1C-8CB3-31623866C0DE.jpeg","size":6069782},
-      {"type":"file","name":"P1080533.JPG","size":6940672},
-      {"type":"file","name":"P1080534.JPG","size":3533312},
-      {"type":"file","name":"P1080535.JPG","size":3997696}
+      {"type":"file","name":"DSCF3606.JPG","size":4024683}
     ]},
     {"type":"directory","name":"05","size":131072,"contents":[
       {"type":"file","name":"20230507_172609.jpg","size":2112885},
@@ -1395,6 +1378,12 @@
       {"type":"file","name":"20231111_102945.jpg","size":4564863},
       {"type":"file","name":"20231111_105445.jpg","size":3668592},
       {"type":"file","name":"20231111_105503.jpg","size":4994432},
+      {"type":"file","name":"20231118_094338.jpg","size":5134188},
+      {"type":"file","name":"20231118_100019.jpg","size":1876928},
+      {"type":"file","name":"20231118_103544.jpg","size":2803499},
+      {"type":"file","name":"20231118_104128.jpg","size":4034525},
+      {"type":"file","name":"20231118_104412.jpg","size":4170957},
+      {"type":"file","name":"20231118_104706.jpg","size":4001861},
       {"type":"file","name":"20231120_115944.jpg","size":1809973},
       {"type":"file","name":"20231129_173644.jpg","size":3126804},
       {"type":"file","name":"20231129_173648.jpg","size":3022053},
@@ -1622,5 +1611,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":14,"files":1594}
+  {"type":"report","directories":14,"files":1583}
 ]

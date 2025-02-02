@@ -12,3 +12,4 @@ transcend/transcend-archive-photo-2023.json:
 
 validate:
 	diff onetouch/onetouch-archive-photo-2023.json transcend/transcend-archive-photo-2023.json
+
