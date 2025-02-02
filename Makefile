@@ -4,6 +4,8 @@ onetouch: onetouch/onetouch-archive-photo-2023.json onetouch/onetouch-archive-ph
 
 transcend: transcend/transcend-archive-photo-2023.json transcend/transcend-archive-photo-2022.json
 
+validate: validate-2022 validate-2023
+
 onetouch/onetouch-archive-photo-2023.json:
 	tree -J -s /Volumes/onetouch/4_Archive/PhotographyArchive/photo/2020-2029/2023/photo/2023 -o $@
 
