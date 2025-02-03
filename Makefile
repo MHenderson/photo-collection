@@ -6,12 +6,6 @@ onetouch: json/onetouch-archive-photo-2023.json\
 
 .PHONY: all onetouch 
 
-json/onetouch-archive-photo-2023.json:
-	tree -J -s /Volumes/onetouch/4_Archive/PhotographyArchive/photo/2023 -o $@
-
-json/onetouch-archive-photo-2022.json:
-	tree -J -s /Volumes/onetouch/4_Archive/PhotographyArchive/photo/2022 -o $@
-
-json/onetouch-archive-photo-2021.json:
-	tree -J -s /Volumes/onetouch/4_Archive/PhotographyArchive/photo/2021 -o $@
+json/onetouch-archive-photo-%.json: /Volumes/onetouch/4_Archive/PhotographyArchive/photo/%
+	tree -J -s $< -o $@
 
